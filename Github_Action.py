@@ -17,15 +17,15 @@ import requests
 from bs4 import BeautifulSoup
 
 # 账户信息：用户名和密码
-USERNAME = os.getenv('EUSERV_USERNAME')  # 填写用户名或邮箱
-PASSWORD = os.getenv('EUSERV_PASSWORD')  # 填写密码
+USERNAME = os.getenv('aw168888888@gmail.com')  # 填写用户名或邮箱
+PASSWORD = os.getenv('qq965868345')  # 填写密码
 
 # TrueCaptcha API 配置
-TRUECAPTCHA_USERID = os.getenv('TRUECAPTCHA_USERID')
-TRUECAPTCHA_APIKEY = os.getenv('TRUECAPTCHA_APIKEY')
+TRUECAPTCHA_USERID = os.getenv('7753605277')
+TRUECAPTCHA_APIKEY = os.getenv('8192371314:AAEA7iBRucgoYJD-hZ5VYGN9gYBNSws0dps')
 
 # Mailparser 配置
-MAILPARSER_DOWNLOAD_URL_ID = os.getenv('MAILPARSER_DOWNLOAD_URL_ID')
+MAILPARSER_DOWNLOAD_URL_ID = os.getenv('fphfeukr')
 MAILPARSER_DOWNLOAD_BASE_URL = "https://files.mailparser.io/d/"
 
 # Telegram Bot 推送配置
