@@ -21,16 +21,16 @@ USERNAME = os.getenv('aw168888888@gmail.com')  # 填写用户名或邮箱
 PASSWORD = os.getenv('qq965868345')  # 填写密码
 
 # TrueCaptcha API 配置
-TRUECAPTCHA_USERID = os.getenv('7753605277')
-TRUECAPTCHA_APIKEY = os.getenv('8192371314:AAEA7iBRucgoYJD-hZ5VYGN9gYBNSws0dps')
+TRUECAPTCHA_USERID = os.getenv('aw168888888@gmail.com')
+TRUECAPTCHA_APIKEY = os.getenv('iBBPBWDE0nMVNjd4cvEm')
 
 # Mailparser 配置
 MAILPARSER_DOWNLOAD_URL_ID = os.getenv('fphfeukr')
 MAILPARSER_DOWNLOAD_BASE_URL = "https://files.mailparser.io/d/"
 
 # Telegram Bot 推送配置
-TG_BOT_TOKEN = os.getenv('TG_BOT_TOKEN')
-TG_USER_ID = os.getenv('TG_USER_ID')
+TG_BOT_TOKEN = os.getenv('8192371314:AAEA7iBRucgoYJD-hZ5VYGN9gYBNSws0dps')
+TG_USER_ID = os.getenv('7753605277')
 TG_API_HOST = "https://api.telegram.org"
 
 # 代理设置（如果需要）
